@@ -3,13 +3,13 @@
     <groupId>edu.vsolaber</groupId>
     <artifactId>test-maven</artifactId>
     <packaging>pom</packaging>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <name>test-maven</name>
     <url>http://maven.apache.org</url>
     <scm>
         <developerConnection>scm:git:git@github.com:vsolaber/maven-release-study.git
         </developerConnection>
-        <tag>test-maven-1.1</tag>
+        <tag>HEAD</tag>
     </scm>
     <build>
         <plugins>
